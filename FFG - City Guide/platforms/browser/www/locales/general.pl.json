@@ -1,0 +1,11 @@
+{
+    "buttons":
+    {
+        "language": "Język"
+    },
+    "messages":
+    {
+        "success": "Bieżący język: __language__ (__local__) [__code__]",
+        "error": "Błąd przy odczytywaniu języka!"
+    }
+}
